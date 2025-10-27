@@ -1,4 +1,4 @@
-#SEJA BEM VINDO!  👨‍💻
+# SEJA BEM VINDO!  👨‍💻
 
 ## FORMAÇÃO 📚
  - Universidade Filadélfia (Unifil), 2024 - Atualmente
