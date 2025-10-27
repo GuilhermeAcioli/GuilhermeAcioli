@@ -1,5 +1,4 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-# Seja Bem-vindo!  👨‍💻
+#SEJA BEM VINDO!  👨‍💻
 
 ## FORMAÇÃO 📚
  - Universidade Filadélfia (Unifil), 2024 - Atualmente
