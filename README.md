@@ -1,4 +1,6 @@
-# SEJA BEM VINDO!  👨‍💻
+# Olá, meu nome é Guilherme! 👋
+
+## Seja bem-vindo! 🖥
 
 ## FORMAÇÃO 📚
  - Universidade Filadélfia (Unifil), 2024 - Atualmente
